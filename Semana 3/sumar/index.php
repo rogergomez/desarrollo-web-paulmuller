@@ -1,4 +1,5 @@
 <?php 
+//Verificamos si existe mensaje y si viaja por GET:
 if (isset($_GET["mensaje"])) {
 	echo $alerta = "Debe ingresar solo números";
 }
