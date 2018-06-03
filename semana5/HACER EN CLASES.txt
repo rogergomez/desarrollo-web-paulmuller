@@ -1,0 +1,9 @@
+- Revisar ejercicio de semana pasada
+- Ejercicios:
+ + Calcular el área de un triángulo
+ + Calcular el sueldo neto de un empleado, considerando:
+   - sueldo bruto
+   - descuento por essalud 9% de remuneración 
+   - descuento por pensión (AFP 11.74% y ONP 13%) 
+
+- Presentar for, while y funciones matemáticas
